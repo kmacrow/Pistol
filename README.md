@@ -7,8 +7,7 @@ querySelectorAll, getComputedStyle, etc.) I decided to build Pistol: an ultra-th
 The rationale is that when my brain wants a DOM element, my fingers type <code>$</code>... and I suspect I'm not alone.
 
 Of course jQuery itself <i>is</i> shrinking these days, but I do a lot of R&D and demo/prototyping work that targets
-bleeding edge browsers. Call it WebKit-ism if you must, but it is not your Grandfather's web anymore and this is
-not your Grandfather's jQuery: grab <a href="#">pistol-0.0.1.min.js</a> and try it out!
+bleeding edge browsers. 
 
 ## Status
 
